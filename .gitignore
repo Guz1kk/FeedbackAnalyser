@@ -1,0 +1,5 @@
+__pycache__
+.venv
+survey.csv
+reviews.csv
+.env
