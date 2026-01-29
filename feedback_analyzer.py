@@ -41,7 +41,7 @@ class FeedbackAnalyzer:
                         {data}
 
                         Wykonaj następującą analizę:
-                        1. Zidentyfikuj główne tematy i wzorce w odpowiedziach
+                        1. Zidentyfikuj pytania i wzorce w odpowiedziach
                         2. Pogrupuj podobne odpowiedzi
                         3. Wyciągnij kluczowe wnioski dla każdego pytania
                         4. Przedstaw rekomendacje na podstawie odpowiedzi
@@ -84,4 +84,4 @@ class FeedbackAnalyzer:
                 }
             ]
         )
-        print(response.output)
+        return response.output[0].content[0].text

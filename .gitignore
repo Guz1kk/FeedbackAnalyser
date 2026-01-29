@@ -3,3 +3,4 @@ __pycache__
 survey.csv
 reviews.csv
 .env
+results.txt
