@@ -1,0 +1,105 @@
+## Sentyment
+
+Na podstawie próbki opinii:
+
+- **Pozytywny:** ok. 50%
+  - Przykłady: "Komputer działa perfekcyjnie", "Świetna jakość sprzętu", "Sprzęt pierwsza klasa", "Rewelacyjny laptop", "Sprzęt bardzo dobry, polecam"
+- **Neutralny:** ok. 25%
+  - Przykłady: "Produkt ok, ale długo czekałem", "Zakupy ogólnie w porządku", "normalnie", "meh"
+- **Negatywny:** ok. 25%
+  - Przykłady: "Dostawa bardzo wolna", "Trudny kontakt ze sklepem.", "Proces zamówienia był chaotyczny.", "MASAKRA NIE POLECAM!!!!"
+
+**Uzasadnienie:**  
+Dominują pochwały dla jakości sprzętu, jednak bardzo liczne są zastrzeżenia dotyczące obsługi, kontaktu i procesu dostawy. Znaczna część opinii pozytywnych zawiera krytykę, szczególnie logistyki. Występuje także wyraźna grupa opinii negatywnych skupiona na obsłudze i organizacji.
+
+
+## Najczęstsze problemy
+
+1. **Długi czas dostawy**
+    - Cytaty: "czekałem długo", "długi czas oczekiwania", "wysyłka wolna", "dostawa była przeciągnięta", "Bardzo długi czas dostawy"
+2. **Problemy logistyczne i z realizacją zamówień**
+    - Cytaty: "logistyka zawiodła", "realizacja do poprawy", "obsługa logistyczna słaba", "proces zamówienia był chaotyczny"
+3. **Trudny kontakt z obsługą klienta**
+    - Cytaty: "Trudny kontakt ze sklepem.", "Kontakt z obsługą bardzo utrudniony.", "kontakt słaby"
+4. **Problem ze śledzeniem statusu zamówienia**
+    - Cytaty: "Brak informacji o statusie zamówienia."
+5. **Obsługa klienta poniżej oczekiwań**
+    - Cytaty: "Obsługa klienta rozczarowała.", "obsługa przeciętna"
+6. **Problemy z płatnościami**
+    - Cytaty: "Problemy z płatnością."
+7. **Strona internetowa wolno działa**
+    - Cytaty: "Strona działała wolno podczas zamówienia."
+8. **Brak atrakcyjnych promocji**
+    - Cytaty: "Brak atrakcyjnych promocji."
+9. **Cena nieadekwatna do jakości**
+    - Cytaty: "Cena nieadekwatna do jakości."
+10. **Organizacja ogólnie słaba**
+    - Cytaty: "słaba organizacja", "realizacja zamówienia trwała za długo", "organizacja"
+
+---
+
+## Najczęstsze pochwały
+
+1. **Wysoka jakość sprzętu**
+   - Cytaty: "Świetna jakość sprzętu", "sprzęt pierwsza klasa", "wysoka jakość wykonania"
+2. **Wysoka wydajność komputerów/laptopów**
+   - Cytaty: "Komputer bardzo wydajny", "Rewelacyjny laptop, szybki", "Komputer szybki i cichy"
+3. **Solidna konstrukcja/wykonanie**
+   - Cytaty: "solidna obudowa", "solidnie zapakowany", "Komputer solidny i wydajny"
+4. **Produkt zgodny z opisem**
+   - Cytaty: "zgodny z opisem", "sprzęt zgodny z opisem"
+5. **Dobra jakość monitorów**
+   - Cytaty: "Monitor świetnej jakości", "Rewelacyjny monitor, świetna jakość obrazu"
+6. **Dobre ogólne doświadczenia zakupowe**
+   - Cytaty: "wszystko ok", "zakupy ogólnie w porządku", "bardzo zadowolony"
+7. **Brak problemów technicznych po zakupie**
+   - Cytaty: "Sprzęt działa bez problemów", "Komputer działa bez zarzutu"
+8. **Sprzęt spełnia oczekiwania**
+   - Cytaty: "Produkt wysokiej jakości, spełnia oczekiwania", "Komputer spełnia oczekiwania"
+9. **Bezpieczne i solidne opakowanie**
+   - Cytaty: "solidnie zapakowany"
+10. **Polecenia ze strony użytkowników**
+    - Cytaty: "polecam!!!!!", "Sprzęt wysokiej jakości, polecam"
+
+---
+
+## Statystyki ocen
+
+- **Liczba opinii:** 107
+- **Średnia ocena:** 3,39/5
+- **Rozkład ocen:**
+    - 1: 8 (7,5%)
+    - 2: 21 (19,6%)
+    - 3: 24 (22,4%)
+    - 4: 29 (27,1%)
+    - 5: 25 (23,4%)
+
+**Komentarz:**  
+Rozkład jest lekko przesunięty w kierunku pozytywnym – oceny 4 i 5 stanowią 50,5%. Jednocześnie znaczący odsetek użytkowników wybrał ocenę 2 lub 3, wskazując na rozczarowania (głównie obsługą i logistyką). Średnia oscyluje wokół wartości umiarkowanej, co sugeruje liczne obszary do poprawy.
+
+---
+
+## Rekomendacje
+
+1. **Poprawa czasu realizacji dostaw** (priorytet: wysoki)
+   - Skrócenie procesu logistycznego lub wybór innych partnerów kurierskich. Oczekiwany efekt: bezpośrednia poprawa satysfakcji.
+2. **Usprawnienie obsługi klienta i komunikacji** (priorytet: wysoki)
+   - Lepsza dostępność i szkolenia dla konsultantów; automatyczne powiadomienia o statusie zamówienia. Efekt: mniejsza liczba negatywnych ocen dotyczących kontaktu i obsługi.
+3. **Optymalizacja procesu zamówień online** (priorytet: średni)
+   - Poprawa wydajności strony internetowej, intuicyjny proces zakupowy. Efekt: zmniejszenie frustracji użytkowników.
+4. **Większa transparentność statusu zamówienia** (priorytet: wysoki)
+   - System powiadomień oraz śledzenia realizacji. Efekt: mniej zgłoszeń dotyczących braku informacji.
+5. **Weryfikacja procesu płatności** (priorytet: średni)
+   - Sprawdzenie i naprawa potencjalnych błędów technicznych. Efekt: wyższy poziom bezpieczeństwa i zaufania.
+6. **Wprowadzenie (lub promocja) atrakcyjnych promocji** (priorytet: średni)
+   - Okresowe akcje rabatowe lub bonusy dla lojalnych klientów. Efekt: pozytywny wpływ na ocenę ceny do jakości.
+7. **Wyjaśnianie polityki cenowej** (priorytet: niski)
+   - Lepsza komunikacja argumentów za poziomem cen (np. jakość, obsługa). Efekt: ograniczenie negatywnych opinii o cenach.
+8. **Stały monitoring opinii i szybka reakcja** (priorytet: wysoki)
+   - Dedykowany zespół ds. feedbacku. Efekt: szybsze wykrywanie powtarzających się problemów.
+9. **Rozwój materiałów wsparcia i FAQ** (priorytet: niski)
+   - Szczegółowe odpowiedzi na najczęstsze pytania. Efekt: ograniczenie liczby kontaktów w prostych sprawach.
+10. **Promowanie pozytywnych aspektów w komunikacji marketingowej** (priorytet: średni)
+    - Wskazywanie na wysoką jakość sprzętu i satysfakcję klientów w materiałach promocyjnych. Efekt: wzmocnienie pozytywnego wizerunku.
+
+---

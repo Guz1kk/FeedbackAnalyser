@@ -1,0 +1,96 @@
+## Podsumowanie ogólne
+
+- Najczęstsze rozczarowania dotyczą opóźnień w dostawie i długiego czasu realizacji zamówień.
+- Respondenci wskazują również na problemy z komunikacją — zarówno z obsługą klienta, jak i brak jasnych informacji o zamówieniu.
+- Często pojawiają się uwagi dotyczące nieprecyzyjnych lub niepełnych informacji o produkcie na stronie.
+- Klienci zgłaszają frustracje związane z cenami — zbyt wysokie koszty lub ukryte opłaty pojawiające się w trakcie realizacji zamówienia.
+- Zwracana jest także uwaga na problemy techniczne strony, skomplikowany proces składania zamówienia oraz problemy z płatnościami.
+
+---
+
+## Analiza per pytanie
+
+### Co najbardziej Cię rozczarowało podczas zakupów?
+
+#### Najczęstsze wzorce (tematy):
+- Opóźnienia i długi czas realizacji zamówienia/dostawy.
+- Problemy z komunikacją i obsługą klienta.
+- Niedokładne lub niejasne informacje o produkcie i zamówieniu.
+- Niezadowolenie z poziomu cen i kosztów dodatkowych.
+- Problemy techniczne i komplikacje w procesie zamówienia.
+
+#### Grupowanie odpowiedzi (klastry):
+
+1. **Opóźnienia i dostawa (najliczniejszy)**
+   - Odpowiedzi: długi czas dostawy, opóźnienie w realizacji zamówienia, zbyt wolna realizacja, dostawa po terminie, opóźnione zamówienie, problemy logistyczne.
+   - Opis: Klienci najbardziej krytykują długi czas oczekiwania na zamówienie oraz niedotrzymanie deklarowanych terminów dostawy.
+
+2. **Komunikacja i obsługa klienta**
+   - Odpowiedzi: brak informacji o statusie wysyłki, brak szybkiej odpowiedzi, utrudniony kontakt, słaba obsługa klienta, brak aktualnych informacji.
+   - Opis: Niezadowolenie dotyczy opóźnionych, niejasnych lub niewystarczających kontaktów oraz braku wsparcia w trakcie realizacji zamówienia.
+
+3. **Jakość informacji o produkcie/zamówieniu**
+   - Odpowiedzi: brak dokładnych informacji o produkcie, niejasne opisy produktów, niedokładny opis sprzętu, niejasne informacje o dostawie.
+   - Opis: Klientom przeszkadza brak szczegółowych i transparentnych danych przed oraz w trakcie zamówienia.
+
+4. **Cena i koszty**
+   - Odpowiedzi: cena wyższa niż oczekiwano, brak promocji, wysokie koszty dostawy, pojawiające się dodatkowe koszty, cena nieadekwatna do jakości.
+   - Opis: Rozczarowania pojawiają się zarówno na etapie wyboru (oferta), jak i finalizacji (ukryte opłaty).
+
+5. **Problemy techniczne/proces zamówienia**
+   - Odpowiedzi: problemy z płatnością, skomplikowany proces zamówienia, wolna strona, błędy podczas składania, chaos w procesie realizacji.
+   - Opis: Frustracje wynikają ze złego doświadczenia użytkownika w obszarze technologicznym i operacyjnym.
+
+#### Kluczowe wnioski:
+- Utrzymujące się opóźnienia i brak transparentności w realizacji dostaw negatywnie wpływają na satysfakcję klientów.
+- Usprawnienia wymaga komunikacja — zarówno w zakresie statusów zamówień, jak i obsługi posprzedażowej.
+- Konieczne jest udoskonalenie prezentacji produktów oraz informacji o zamówieniu.
+- Trzeba zadbać o transparentność cen oraz eliminację dodatkowych, niespodziewanych opłat.
+- Użytkownicy napotykają bariery funkcjonalne na stronie i w procesie zakupowym.
+
+#### Rekomendacje:
+1. Optymalizacja procesów logistycznych i ścisłe monitorowanie terminowości dostaw.
+2. Wprowadzenie automatycznych powiadomień o statusie zamówienia oraz estymacji czasu dostawy.
+3. Usprawnienie kanałów kontaktu z obsługą klienta (chat, infolinia, szybkie odpowiedzi).
+4. Poprawa opisów produktów — szczegółowe, precyzyjne, wzbogacone o zdjęcia i FAQ.
+5. Transparentne prezentowanie cen, kosztów wysyłki i ewentualnych opłat dodatkowych już na etapie koszyka.
+6. Usprawnienie i uproszczenie procesu składania zamówienia — redukcja kroków, poprawa wydajności strony.
+7. Regularne testowanie strony i procesów płatności oraz szybkie eliminowanie błędów technicznych.
+
+---
+
+## Rekomendacje przekrojowe
+
+1. **[Wysoki priorytet] Usprawnienie łańcucha dostaw i partnerstw logistycznych**  
+   — Najczęstszy problem klientów to czas i punktualność dostaw – poprawa procesu to szybka poprawa satysfakcji.
+
+2. **[Wysoki priorytet] Automatyzacja komunikacji statusu zamówienia**  
+   — Jasna, regularna informacja o postępach eliminuje frustrację związaną z niepewnością.
+
+3. **[Wysoki priorytet] Wdrożenie szybkich i wygodnych kanałów kontaktu z obsługą klienta**  
+   — Chatboty, szybkie odpowiedzi, odpowiedzialni konsultanci podnoszą poziom zaufania.
+
+4. **[Średni priorytet] Poprawa przejrzystości i szczegółowości informacji produktowych i dostawczych**  
+   — Redukuje rozczarowania wynikające z nieporozumień.
+
+5. **[Średni priorytet] Transparentne, pełne informowanie o wszystkich kosztach już na etapie dodania do koszyka**  
+   — Zapobiega utracie klientów w procesie zakupowym.
+
+6. **[Średni priorytet] Optymalizacja techniczna strony oraz procesu płatności**  
+   — Wyeliminowanie błędów i opóźnień znacząco poprawi doświadczenie użytkownika.
+
+7. **[Wysoki priorytet] Stały monitoring i szybkie reagowanie na techniczne i operacyjne problemy**  
+   — Sprawny zespół reagujący na incydenty minimalizuje skutki problemów dla klientów.
+
+8. **[Niski priorytet] Aktywna polityka promocji i ofert specjalnych**  
+   — Zwiększa atrakcyjność oferty wobec konkurencji, choć nie jest to główny powód rozczarowań.
+
+9. **[Średni priorytet] Uproszczenie procesu zakupowego i ograniczenie liczby wymaganych kroków**  
+   — Skraca czas finalizacji zamówienia i obniża liczbę porzuceń koszyka.
+
+10. **[Wysoki priorytet] Proaktywna obsługa reklamacji i sytuacji problemowych**  
+    — Zmniejsza wpływ negatywnych doświadczeń na lojalność klienta.
+
+---
+
+Wdrożenie powyższych działań pozwoli ograniczyć główne źródła rozczarowań klientów, co przełoży się na wyższą satysfakcję oraz wskaźniki powracalności.
